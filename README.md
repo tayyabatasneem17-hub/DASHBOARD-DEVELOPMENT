@@ -113,3 +113,11 @@ This project simulates how real organizations use dashboards to gain actionable 
 7. Testing – Ran the dashboard locally to ensure graphs update correctly.
 8. Documentation – Prepared README, requirements.txt, and screenshots for GitHub.
 9. Deployment (Optional) – Dashboard can be deployed using platforms like Heroku or Render.
+
+    
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/735b832e-8422-4c82-a6c1-e9081f21d270" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3e4eb9f8-94ef-4b0e-9e8d-9e84504776e4" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/465c2cb3-5d51-4189-8e75-140e38a83540" />
